@@ -1,6 +1,6 @@
 const projetos = [
   {
-    nome: "Projeto 1",
+    nome: "caminhoes",
     descricao: "Descrição do projeto 10000",
     link: "#"
   },
