@@ -30,3 +30,8 @@ projetos.forEach(projeto => {
 
   container.appendChild(card);
 });
+
+const data = new Date();
+const dataFormatada = data.toLocaleDateString('pt-BR');
+
+document.getElementById("data-atual").textContent = "© 2026 - Meu Portfólio " + dataFormatada;
