@@ -1,12 +1,12 @@
 const projetos = [
   {
-    nome: "caminhoes",
-    descricao: "Descrição do projeto 10000",
+    nome: "Flow Carga",
+    descricao: "Esse sistema permitir que o usuário compartilhe sua localização em tempo real com contatos selecionados, em situações de segurança, trajeto rotineiro ou emergência",
     link: "#"
   },
   {
-    nome: "Projeto 2",
-    descricao: "Descrição do projeto 2",
+    nome: "Comecio livre",
+    descricao: "Descrição do projeto Um sistema voltado para que revendedoras multimarcas em produtos para a beleza em geral coloquem seus produtos exportos na intenet assim criando um ecosistema de venda totalmente online",
     link: "#"
   },
   {
